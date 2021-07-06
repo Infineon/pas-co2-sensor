@@ -1,0 +1,17 @@
+digraph "PSoC6 HAL"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=box];
+  rankdir=LR;
+  Node2 [label="PAS CO2 Serial API",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d3a/group__co2spsoc6api.html",tooltip=" "];
+  Node0 [label="PSoC6 HAL",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node5 [label="HW Platforms",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d10/group__co2psoc6hw.html",tooltip=" "];
+  Node4 [label="PAL",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dff/group__co2psoc6pal.html",tooltip=" "];
+  Node3 [label="PAS CO2 Pulse API",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dde/group__co2ppsoc6api.html",tooltip=" "];
+  Node1 [label="SW Frameworks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dcd/group__co2frwk.html",tooltip=" "];
+  Node1->Node0 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node0->Node5 [shape=plaintext, dir="back", style="solid"];
+}

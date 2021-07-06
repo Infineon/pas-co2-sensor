@@ -1,0 +1,4 @@
+<map id="PASCO2::disableLogic" name="PASCO2::disableLogic">
+<area shape="rect" id="node1" title="Disables the sensor logic." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a316c7dcbff5ba73f2f023c80fd97dc7b" title="Disables the GPIO output according to the GPIO logic." alt="" coords="208,5,361,32"/>
+</map>

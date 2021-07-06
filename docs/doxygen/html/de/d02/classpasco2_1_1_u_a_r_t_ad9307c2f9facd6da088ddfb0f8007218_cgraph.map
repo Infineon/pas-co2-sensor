@@ -1,0 +1,9 @@
+<map id="pasco2::UART::write" name="pasco2::UART::write">
+<area shape="rect" id="node1" title="Writes data to a register or set of consecutive registers." alt="" coords="5,122,147,149"/>
+<area shape="rect" id="node2" href="$de/d02/classpasco2_1_1_u_a_r_t.html#aae207886f387e4c8dd306729a4a48199" title="Assembles the register write request frame." alt="" coords="197,5,399,47"/>
+<area shape="rect" id="node4" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#ad74b0fd711c02e6aa9cc3860a8538e9d" title="Writes in the UART interface." alt="" coords="215,71,381,98"/>
+<area shape="rect" id="node5" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#a4813bf34bccf38ac9178fd655f740d1c" title="Waits for a maximum timeout for the specified amount of bytes to be received." alt="" coords="195,122,401,149"/>
+<area shape="rect" id="node6" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#ae9d933d6b9fef617e2ce95658d83376c" title="Reads from the UART interface." alt="" coords="216,173,380,199"/>
+<area shape="rect" id="node7" href="$de/d02/classpasco2_1_1_u_a_r_t.html#aab6626e640d808ab859995ffa234c75d" title="Checks if a frame is an ack reply frame." alt="" coords="206,223,390,250"/>
+<area shape="rect" id="node3" href="$de/d02/classpasco2_1_1_u_a_r_t.html#ad1817610a9477b5b081197b96b2b9332" title="Converts an unsigned 4 bits integer to its hexadecimal ascii value." alt="" coords="449,13,656,39"/>
+</map>

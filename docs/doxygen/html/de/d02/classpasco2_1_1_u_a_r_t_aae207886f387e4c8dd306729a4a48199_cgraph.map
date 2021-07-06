@@ -1,0 +1,4 @@
+<map id="pasco2::UART::assembleWriteRequestFrame" name="pasco2::UART::assembleWriteRequestFrame">
+<area shape="rect" id="node1" title="Assembles the register write request frame." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$de/d02/classpasco2_1_1_u_a_r_t.html#ad1817610a9477b5b081197b96b2b9332" title="Converts an unsigned 4 bits integer to its hexadecimal ascii value." alt="" coords="255,13,461,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pasco2::UART::init" name="pasco2::UART::init">
+<area shape="rect" id="node1" title="Initializes the I2C interface." alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#a9d223dceb12fef05405639beb61168d7" title="Initializes the UART interface." alt="" coords="193,5,349,32"/>
+<area shape="rect" id="node3" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#a951dabc8f20f00a69ce805fcc92be734" title="Configures the UART interface settings." alt="" coords="184,56,357,83"/>
+</map>

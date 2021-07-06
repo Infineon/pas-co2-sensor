@@ -1,0 +1,6 @@
+<map id="PASCO2::preResetSaveConfig" name="PASCO2::preResetSaveConfig">
+<area shape="rect" id="node1" title="Saves the sensor register configuration and prepare the device for reset." alt="" coords="5,56,204,83"/>
+<area shape="rect" id="node2" href="$dc/d42/classpasco2_1_1_s_bus.html#a4acd0a08c9f62f4532c3416ed3b24c4c" title="Reads data from a register or set of consecutive registers." alt="" coords="277,5,414,32"/>
+<area shape="rect" id="node3" href="$d7/d4e/classpasco2_1_1_reg.html#a1a79de3609c6afa4ae91e4c7c6541ad3" title=" " alt="" coords="252,56,439,83"/>
+<area shape="rect" id="node4" href="$dc/d42/classpasco2_1_1_s_bus.html#a214eec86aa317ab2cb21139aff4429a7" title="Writes data to a register or set of consecutive registers." alt="" coords="276,107,415,133"/>
+</map>

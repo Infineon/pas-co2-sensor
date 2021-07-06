@@ -1,0 +1,4 @@
+<map id="pasco2::I2C::write" name="pasco2::I2C::write">
+<area shape="rect" id="node1" title="Writes data to a register or set of consecutive registers." alt="" coords="5,5,132,32"/>
+<area shape="rect" id="node2" href="$df/d1f/classpasco2_1_1_i2_c_p_a_l.html#a0bedd996b2c2a42f85f2ca81be60af64" title="Writes in the I2C interface the device memory registers." alt="" coords="180,5,331,32"/>
+</map>

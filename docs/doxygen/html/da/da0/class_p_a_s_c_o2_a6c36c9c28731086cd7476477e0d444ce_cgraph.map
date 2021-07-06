@@ -1,0 +1,9 @@
+<map id="PASCO2::init" name="PASCO2::init">
+<area shape="rect" id="node1" title="Initializes the sensor hardware interfaces." alt="" coords="5,132,105,159"/>
+<area shape="rect" id="node2" href="$dc/d42/classpasco2_1_1_s_bus.html#ab37010ecaeb8eb9ab1baaab2050e026f" title="Initializes the serial interface." alt="" coords="178,5,307,32"/>
+<area shape="rect" id="node3" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a33fc13bf6a91236411c61225de802b89" title="Initializes the GPIO." alt="" coords="178,56,307,83"/>
+<area shape="rect" id="node4" href="$dc/d42/classpasco2_1_1_s_bus.html#a11fe81dbfd6d0e973ec57d85ebb67e00" title="Gets the specific serial protocol." alt="" coords="153,107,332,133"/>
+<area shape="rect" id="node5" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a1af721d67842107d242b9d2305b6e5cd" title="Writes the GPIO output voltage level." alt="" coords="173,157,312,184"/>
+<area shape="rect" id="node6" href="$de/d81/classpasco2_1_1_p_w_m.html#a5c3a7cb24a50cba8bda961a20dc00877" title="Initializes the PWM." alt="" coords="177,208,308,235"/>
+<area shape="rect" id="node7" href="$dd/d0f/classpasco2_1_1_timer.html#a4922b708cbd22b1413c73ecc164ec170" title="Initialiazes the timer." alt="" coords="178,259,307,285"/>
+</map>

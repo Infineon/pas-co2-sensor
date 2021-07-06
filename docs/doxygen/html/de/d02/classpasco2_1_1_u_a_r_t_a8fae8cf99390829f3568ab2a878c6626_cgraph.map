@@ -1,0 +1,10 @@
+<map id="pasco2::UART::read" name="pasco2::UART::read">
+<area shape="rect" id="node1" title="Reads data from a register or set of consecutive registers." alt="" coords="5,147,144,174"/>
+<area shape="rect" id="node2" href="$de/d02/classpasco2_1_1_u_a_r_t.html#a50ba1d25bfa812cff91b1cb2bfd2fbf4" title="Assembles the register read request frame." alt="" coords="195,5,395,47"/>
+<area shape="rect" id="node4" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#ad74b0fd711c02e6aa9cc3860a8538e9d" title="Writes in the UART interface." alt="" coords="212,71,379,98"/>
+<area shape="rect" id="node5" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#a4813bf34bccf38ac9178fd655f740d1c" title="Waits for a maximum timeout for the specified amount of bytes to be received." alt="" coords="192,122,399,149"/>
+<area shape="rect" id="node6" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#ae9d933d6b9fef617e2ce95658d83376c" title="Reads from the UART interface." alt="" coords="213,173,377,199"/>
+<area shape="rect" id="node7" href="$de/d02/classpasco2_1_1_u_a_r_t.html#a4f36c50dc5ec8dcd41aac8cdd50abd00" title="Checks if a frame is an nack reply frame." alt="" coords="200,223,391,250"/>
+<area shape="rect" id="node8" href="$de/d02/classpasco2_1_1_u_a_r_t.html#a2582d6f951038efc843b0b1dbb2f8133" title="Disassembles the read response frame." alt="" coords="202,275,389,316"/>
+<area shape="rect" id="node3" href="$de/d02/classpasco2_1_1_u_a_r_t.html#ad1817610a9477b5b081197b96b2b9332" title="Converts an unsigned 4 bits integer to its hexadecimal ascii value." alt="" coords="447,13,653,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="pasco2::I2C::deinit" name="pasco2::I2C::deinit">
+<area shape="rect" id="node1" title="Deinitializes the I2C interface." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$df/d1f/classpasco2_1_1_i2_c_p_a_l.html#a5e6030603b43fb31de42b8f4895d995f" title="Deinitializes the I2C interface." alt="" coords="184,5,339,32"/>
+</map>

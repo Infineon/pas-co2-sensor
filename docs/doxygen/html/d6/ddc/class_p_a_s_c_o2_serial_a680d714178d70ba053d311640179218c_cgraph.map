@@ -1,0 +1,31 @@
+<map id="PASCO2Serial::calibrate" name="PASCO2Serial::calibrate">
+<area shape="rect" id="node1" title="Calibrates the sensor." alt="" coords="5,385,171,412"/>
+<area shape="rect" id="node2" href="$da/da0/class_p_a_s_c_o2.html#ac2131e9207364081dd91f2bfcb13c5c6" title="Enables the automatic baseline compensation." alt="" coords="221,411,453,437"/>
+<area shape="rect" id="node28" href="$da/da0/class_p_a_s_c_o2.html#a1497ac76f80a2d74f8c23c315c87e524" title="Sets the pressure compensation reference." alt="" coords="219,360,455,387"/>
+<area shape="rect" id="node3" href="$da/da0/class_p_a_s_c_o2.html#a5bace683a1be7dae71efac31c4f1ce3c" title="Sets the device status." alt="" coords="541,411,680,437"/>
+<area shape="rect" id="node25" href="$d7/d4e/classpasco2_1_1_reg.html#a3cba860e86791eb1a3e880e54ceda351" title=" " alt="" coords="515,512,706,539"/>
+<area shape="rect" id="node26" href="$dc/d42/classpasco2_1_1_s_bus.html#a214eec86aa317ab2cb21139aff4429a7" title="Writes data to a register or set of consecutive registers." alt="" coords="541,360,680,387"/>
+<area shape="rect" id="node27" href="$d7/d4e/classpasco2_1_1_reg.html#a134ca8036261693d0b1a0cdd1e9aa5bb" title=" " alt="" coords="503,461,719,488"/>
+<area shape="rect" id="node4" href="$da/da0/class_p_a_s_c_o2.html#a6c36c9c28731086cd7476477e0d444ce" title="Initializes the sensor hardware interfaces." alt="" coords="806,157,906,184"/>
+<area shape="rect" id="node11" href="$da/da0/class_p_a_s_c_o2.html#a2abe815b8f274249e106504791082e59" title="Enables the sensor logic." alt="" coords="780,411,932,437"/>
+<area shape="rect" id="node16" href="$da/da0/class_p_a_s_c_o2.html#a8cefed2a600399a1e01142a2d335344c" title="Disables the sensor logic." alt="" coords="779,461,933,488"/>
+<area shape="rect" id="node18" href="$da/da0/class_p_a_s_c_o2.html#a78496970f2fa0dc88ae8400571007bb7" title="Enables the IR emitter." alt="" coords="769,360,943,387"/>
+<area shape="rect" id="node19" href="$da/da0/class_p_a_s_c_o2.html#ae22c8d0c3e0c3fb9d5f6897962584804" title="Disables the IR emitter." alt="" coords="767,512,945,539"/>
+<area shape="rect" id="node20" href="$da/da0/class_p_a_s_c_o2.html#af6b9948e5aa7c700d6c71ac10cfbbc86" title="Deinitializes the sensor hardware interfaces." alt="" coords="799,588,913,615"/>
+<area shape="rect" id="node5" href="$dc/d42/classpasco2_1_1_s_bus.html#ab37010ecaeb8eb9ab1baaab2050e026f" title="Initializes the serial interface." alt="" coords="1024,157,1153,184"/>
+<area shape="rect" id="node6" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a33fc13bf6a91236411c61225de802b89" title="Initializes the GPIO." alt="" coords="1024,208,1153,235"/>
+<area shape="rect" id="node7" href="$dc/d42/classpasco2_1_1_s_bus.html#a11fe81dbfd6d0e973ec57d85ebb67e00" title="Gets the specific serial protocol." alt="" coords="999,259,1178,285"/>
+<area shape="rect" id="node8" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a1af721d67842107d242b9d2305b6e5cd" title="Writes the GPIO output voltage level." alt="" coords="1019,5,1158,32"/>
+<area shape="rect" id="node9" href="$de/d81/classpasco2_1_1_p_w_m.html#a5c3a7cb24a50cba8bda961a20dc00877" title="Initializes the PWM." alt="" coords="1023,56,1154,83"/>
+<area shape="rect" id="node10" href="$dd/d0f/classpasco2_1_1_timer.html#a4922b708cbd22b1413c73ecc164ec170" title="Initialiazes the timer." alt="" coords="1024,107,1153,133"/>
+<area shape="rect" id="node12" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a63a08a6563d1f2fef27612ce45733ecd" title="Enables the GPIO output according to the GPIO logic." alt="" coords="1013,309,1164,336"/>
+<area shape="rect" id="node13" href="$dd/d0f/classpasco2_1_1_timer.html#a6d688735ce0a9dc4e2006d7c2be8e778" title="Introduces a delay during the specified time." alt="" coords="1017,360,1160,387"/>
+<area shape="rect" id="node14" href="$dc/d42/classpasco2_1_1_s_bus.html#a4acd0a08c9f62f4532c3416ed3b24c4c" title="Reads data from a register or set of consecutive registers." alt="" coords="1020,411,1157,437"/>
+<area shape="rect" id="node15" href="$d7/d4e/classpasco2_1_1_reg.html#a0c0e38d34fecfc321e1fa9a62d5fb935" title=" " alt="" coords="993,461,1184,488"/>
+<area shape="rect" id="node17" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a316c7dcbff5ba73f2f023c80fd97dc7b" title="Disables the GPIO output according to the GPIO logic." alt="" coords="1012,512,1165,539"/>
+<area shape="rect" id="node21" href="$dc/d42/classpasco2_1_1_s_bus.html#ac720a0389806889f8a9952a11954ff39" title="Deinitializes the serial interface." alt="" coords="1017,613,1160,640"/>
+<area shape="rect" id="node22" href="$de/d81/classpasco2_1_1_p_w_m.html#af006fb6e3fe1c9a00bc77d08fa89dc64" title="Deinitializes the PWM." alt="" coords="1017,664,1161,691"/>
+<area shape="rect" id="node23" href="$dd/d0f/classpasco2_1_1_timer.html#a33578036f7b127f9cf766c24389e6cb6" title="Deinitialiazes the timer." alt="" coords="1017,715,1160,741"/>
+<area shape="rect" id="node24" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a64999a0fbadfc0a4d18650e876f983b7" title="Deinitializes the GPIO." alt="" coords="1017,563,1160,589"/>
+<area shape="rect" id="node29" href="$d7/d4e/classpasco2_1_1_reg.html#a65285d9581094b5255cf7a0e228d10be" title=" " alt="" coords="516,294,705,335"/>
+</map>

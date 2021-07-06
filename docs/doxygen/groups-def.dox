@@ -1,0 +1,29 @@
+/**
+ * @defgroup hscorelib      Core Library
+ * @{
+ */
+
+/** @defgroup co2types      PAS CO2 Types */
+/** @defgroup co2api        PAS CO2 Core API */
+/** @defgroup co2sapi       PAS CO2 Serial API */
+/** @defgroup co2papi       PAS CO2 Pulse API */
+/** @defgroup co2pal        PAS CO2 Platform Abstraction Layer */
+
+/** @} */
+
+/** @defgroup co2frwk       SW Frameworks
+ *  @{
+ */
+
+/** @defgroup co2ino        Arduino 
+ *  @{
+ */
+
+/** @defgroup co2sinoapi    PAS CO2 Serial API */
+/** @defgroup co2pinoapi    PAS CO2 Pulse API */
+/** @defgroup co2inopal     PAL */
+/** @defgroup co2inohw      HW Platforms */
+
+/** @} */
+/** @} */
+

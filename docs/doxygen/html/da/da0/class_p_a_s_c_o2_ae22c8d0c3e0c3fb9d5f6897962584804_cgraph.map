@@ -1,0 +1,4 @@
+<map id="PASCO2::disableIREmitter" name="PASCO2::disableIREmitter">
+<area shape="rect" id="node1" title="Disables the IR emitter." alt="" coords="5,5,184,32"/>
+<area shape="rect" id="node2" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a316c7dcbff5ba73f2f023c80fd97dc7b" title="Disables the GPIO output according to the GPIO logic." alt="" coords="232,5,385,32"/>
+</map>

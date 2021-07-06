@@ -1,0 +1,5 @@
+<map id="pasco2::I2C::init" name="pasco2::I2C::init">
+<area shape="rect" id="node1" title="Initializes the I2C interface." alt="" coords="5,31,121,57"/>
+<area shape="rect" id="node2" href="$df/d1f/classpasco2_1_1_i2_c_p_a_l.html#a34668dc936ef383acd8c2353900415c8" title="Initializes the I2C interface." alt="" coords="199,5,341,32"/>
+<area shape="rect" id="node3" href="$df/d1f/classpasco2_1_1_i2_c_p_a_l.html#aa5e960a9c1e59744f3b211240a19b27c" title="Sets the I2C bus frequency." alt="" coords="169,56,371,83"/>
+</map>

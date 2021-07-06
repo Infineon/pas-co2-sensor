@@ -1,0 +1,4 @@
+<map id="pasco2::UART::deinit" name="pasco2::UART::deinit">
+<area shape="rect" id="node1" title="Deinitializes the serial interface." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$d7/d41/classpasco2_1_1_u_a_r_t_p_a_l.html#aa1e74e0a29d85f82c5f02445315249de" title="Deinitializes the UART interface." alt="" coords="199,5,369,32"/>
+</map>

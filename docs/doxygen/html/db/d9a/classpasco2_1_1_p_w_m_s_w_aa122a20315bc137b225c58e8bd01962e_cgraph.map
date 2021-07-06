@@ -1,0 +1,8 @@
+<map id="pasco2::PWMSW::getDuty" name="pasco2::PWMSW::getDuty">
+<area shape="rect" id="node1" title="Gets the PWM input duty cycle in percentage." alt="" coords="5,107,185,133"/>
+<area shape="rect" id="node2" href="$d3/d81/classpasco2_1_1_g_p_i_o.html#a8f94d448e7f8c8a3a6eeaa5c070cbe8c" title="Enables the GPIO hardware interrupt." alt="" coords="250,5,414,32"/>
+<area shape="rect" id="node3" href="$db/d9a/classpasco2_1_1_p_w_m_s_w.html#acc77758a2862c1bddcadd0ab893a8e70" title="Register a hardware interrupt for the PWMSW object passed by argument." alt="" coords="233,56,431,83"/>
+<area shape="rect" id="node4" href="$dd/d0f/classpasco2_1_1_timer.html#a1269c204924e601dd9902469ce892557" title="Starts the timer." alt="" coords="263,107,401,133"/>
+<area shape="rect" id="node5" href="$dd/d0f/classpasco2_1_1_timer.html#a3a6a318017336bbfaf59c3d09d38fd35" title="Elapsed time since the timer was started in microseconds." alt="" coords="237,157,427,184"/>
+<area shape="rect" id="node6" href="$dd/d0f/classpasco2_1_1_timer.html#aee8d195f889c061abf249f3f77ef5ec2" title="Stops the timer." alt="" coords="263,208,401,235"/>
+</map>

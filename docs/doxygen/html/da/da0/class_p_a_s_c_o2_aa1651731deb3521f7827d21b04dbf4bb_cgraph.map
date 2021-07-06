@@ -1,0 +1,7 @@
+<map id="PASCO2::postResetRestoreConfig" name="PASCO2::postResetRestoreConfig">
+<area shape="rect" id="node1" title="Restores the device register configuration after reset." alt="" coords="5,74,192,115"/>
+<area shape="rect" id="node2" href="$dc/d42/classpasco2_1_1_s_bus.html#a4acd0a08c9f62f4532c3416ed3b24c4c" title="Reads data from a register or set of consecutive registers." alt="" coords="267,5,404,32"/>
+<area shape="rect" id="node3" href="$d7/d4e/classpasco2_1_1_reg.html#a0c0e38d34fecfc321e1fa9a62d5fb935" title=" " alt="" coords="240,56,431,83"/>
+<area shape="rect" id="node4" href="$d7/d4e/classpasco2_1_1_reg.html#a090e685ab7c188a8b27ade58fa1ed15f" title=" " alt="" coords="241,107,430,133"/>
+<area shape="rect" id="node5" href="$dc/d42/classpasco2_1_1_s_bus.html#a214eec86aa317ab2cb21139aff4429a7" title="Writes data to a register or set of consecutive registers." alt="" coords="266,157,405,184"/>
+</map>
