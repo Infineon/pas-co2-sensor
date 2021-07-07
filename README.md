@@ -8,7 +8,7 @@ C++ library of Infineon's **Photoacoustic Spectroscopy (PAS) XENSIV™ CO2** min
 <table>
     <tr>
         <td align="center"><img src="https://github.com/Infineon/pas-co2-sensor/wiki/img/pas-co2-s2go-front.jpg" width=200></td>
-        <td align="center"><img  src="https://github.com/Infineon/pas-co2-sensor/wiki/img/pas-co2-miniboard.png" width=180></td>
+        <td align="center"><img  src="https://github.com/Infineon/pas-co2-sensor/wiki/img/pas-co2-miniboard.jpg" width=180></td>
     </tr>
     <tr>
         <td style="text-align: center"><a href="https://github.com/Infineon/pas-co2-sensor/wiki/Hardware-Platforms#pas-co2-sensor-shield-2go">PAS CO2 Shield2Go</a></td>
