@@ -2,7 +2,7 @@ name: unit-test
 
 on:
   push:
-    branches: [ develop, master ]
+    branches: [ develop, master, coveralls ]
   pull_request:
     branches: [ develop, master ]
 
@@ -31,10 +31,11 @@ jobs:
         cmake --build . 
         ctest
 
-    # - name: Deploy coverage report 
-    #     # Gather the coverage files into root/coverage folder
-    #     GCOV_FILES=$(sudo find . | grep '.*\.gc..$')
-    #     mkdir ../coverage
-    #     cp $GCOV_FILES ../coverage
-    #     # Call cpp coveralls and upload report
-    #     coveralls --root .. -e test -e googletest -e docs -e build
+    - name: Deploy coverage report 
+      run: |
+        # Gather the coverage files into root/coverage folder
+        GCOV_FILES=$(sudo find . | grep '.*\.gc..$')
+        mkdir ../coverage
+        cp $GCOV_FILES ../coverage
+        # Call cpp coveralls and upload report
+        coveralls --root .. -e test -e googletest -e docs -e build
