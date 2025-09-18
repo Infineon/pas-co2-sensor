@@ -1,5 +1,7 @@
 # PAS CO2 Sensor
 
+[![Check links](https://github.com/Infineon/pas-co2-sensor/actions/workflows/check_links.yml/badge.svg)](https://github.com/Infineon/pas-co2-sensor/actions/workflows/check_links.yml)
+
 ![corelib unit-test](https://github.com/Infineon/pas-co2-sensor/actions/workflows/unit-test.yml/badge.svg)
 
 C++ library of Infineon's **Photoacoustic Spectroscopy (PAS) XENSIV™ CO2** miniaturized sensor.
