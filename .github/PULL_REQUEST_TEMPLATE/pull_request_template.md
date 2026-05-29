@@ -1,4 +1,4 @@
-By creating this pull request you agree to the terms in [CONTRIBUTING.md](CONTRIBUTING.md).
+By creating this pull request you agree to the terms in [CONTRIBUTING.md](/.github/CONTRIBUTING.md).
 
 --- DO NOT DELETE ANYTHING ABOVE THIS LINE ---
 

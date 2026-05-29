@@ -1,6 +1,6 @@
 # PAS CO2 Sensor Arduino Library
 
-![build-check](https://github.com/Infineon/arduino-pas-co2-sensor/actions/workflows/build-check.yml/badge.svg)
+![build-check](https://github.com/Infineon/arduino-pas-co2-sensor/actions/workflows/build-check.yml/badge.svg)(https://github.com/Infineon/arduino-pas-co2-sensor/actions/workflows/build-check.yml)
 
 Arduino library of Infineon's **Photoacoustic Spectroscopy (PAS) XENSIV™ CO2** miniaturized sensor.
 
@@ -41,6 +41,6 @@ This is a release repository for the Arduino framework. The code basis is mainta
   
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 
